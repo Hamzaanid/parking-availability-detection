@@ -1,0 +1,9 @@
+requests
+opencv-python
+scikit-learn
+pandas
+Pillow
+scikit-image
+matplotlib
+python-socketio
+
